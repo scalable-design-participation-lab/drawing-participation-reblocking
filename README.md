@@ -1,6 +1,7 @@
 # Drawing Participation: Reblocking
-## A generative AI and collaboration tool for the common good, addressing urban migration
-### Reference Repo for the Drawing Participation - Reblocking Repositories
+A generative AI and collaboration tool for the common good, addressing urban migration
+
+## Reference Repository
 
 ### About the Project
 Drawing Participation: Reblocking allows global mapping and characterization of informal settlements and provides a scalable tool to develop cadastral maps for these communities as they plan for future growth and urbanisation.
