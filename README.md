@@ -15,9 +15,9 @@ The project was made possible by the Prototype Fund and was funded through the F
 If you are interested in supporting or joining the project or simply want to find out more, please reach out via <mail(at)drawing-participation.org>. We're looking forward to hearing from you!
 
 ### Repositories
-[building2parcel-trainingdata](https://github.com/scalable-design-participation-lab/building2parcel-trainingdata)  
-[building2parcel-pix2pix](https://github.com/scalable-design-participation-lab/building2parcel-pix2pix)  
-building2parcel-ensemble (coming soon)
+- [building2parcel-trainingdata](https://github.com/scalable-design-participation-lab/building2parcel-trainingdata)  
+- [building2parcel-pix2pix](https://github.com/scalable-design-participation-lab/building2parcel-pix2pix)  
+- building2parcel-ensemble (coming soon)
 
 ### License
 Unless otherwise described, the code in this repository and its sub-repositories is licensed under GNU AGPLv3. Please note that some modules, extensions, fonts or code herein might be licensed otherwise. If you have any questions, don't hesitate to get in touch via [email](mailto:mail@drawing-participation.org).
