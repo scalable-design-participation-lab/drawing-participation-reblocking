@@ -39,9 +39,9 @@ In addition, you can find a set of pretrained models on [Hugging Face](https://h
 With these tools, any user can develop vector datasets based on existing building structure information.
 
 #### Repositories
-- [building2parcel-trainingdata](https://github.com/scalable-design-participation-lab/building2parcel-trainingdata)  
-- [building2parcel-pix2pix](https://github.com/scalable-design-participation-lab/building2parcel-pix2pix)  
-- [building2parcel-ensemble](https://github.com/scalable-design-participation-lab/building2parcel-ensemble)
+- [building-to-parcel-trainingdata](https://github.com/scalable-design-participation-lab/building-to-parcel-trainingdata)  
+- [building-to-parcel-pix2pix](https://github.com/scalable-design-participation-lab/building-to-parcel-pix2pix)  
+- [building-to-parcel-ensemble](https://github.com/scalable-design-participation-lab/building-to-parcel-ensemble)
 
 ### License
 Unless otherwise described, the code in this repository and its sub-repositories is licensed under GNU AGPLv3. Please note that some modules, extensions, fonts or code herein might be licensed otherwise. If you have any questions, don't hesitate to get in touch via [email](mailto:mail@drawing-participation.org).
