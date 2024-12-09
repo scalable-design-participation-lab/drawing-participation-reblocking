@@ -1,5 +1,5 @@
 # Drawing Participation: Reblocking a Million Neighborhoods
-### — A generative AI and collaboration tool for the common good, addressing urban migration
+### A generative AI and collaboration tool for the common good, addressing urban migration
 
 ## Reference Repository
 
